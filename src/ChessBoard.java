@@ -10,6 +10,9 @@ import java.awt.event.MouseListener;
 import java.io.*;
 import java.util.Stack;
 
+/**
+ * 2017/11/28
+ */
 public class ChessBoard extends JFrame   implements MouseListener
 {
 
